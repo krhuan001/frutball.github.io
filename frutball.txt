@@ -1,0 +1,44 @@
+<html>
+<head>
+Política de Privacidade
+
+Aplicativo: frutball
+
+Desenvolvedor: krhuan0001
+
+Data de atualização: 06.01.2024
+
+1. Introdução
+
+Esta Política de Privacidade descreve as práticas de privacidade do aplicativo frutball, desenvolvido pela krhuan0001.
+
+O aplicativo frutball não coleta nenhum dado do usuário, incluindo dados pessoais, dados de localização ou dados de uso.
+
+2. Dados coletados
+
+O aplicativo frutball não coleta nenhum dado do usuário.
+
+3. Uso de dados coletados
+
+O aplicativo frutball não usa nenhum dado do usuário.
+
+4. Compartilhamento de dados coletados
+
+O aplicativo frutball não compartilha nenhum dado do usuário.
+
+5. Retenção de dados coletados
+
+O aplicativo frutball não retém nenhum dado do usuário.
+
+6. Direitos do usuário
+
+Os usuários têm os seguintes direitos em relação aos seus dados:
+
+Direito de acesso: Os usuários têm o direito de solicitar acesso aos seus dados.
+Direito de correção: Os usuários têm o direito de solicitar a correção de seus dados.
+
+8. Atualizações
+
+Podemos atualizar esta Política de Privacidade periodicamente. A versão mais atual estará sempre disponível nesta página.
+</head>
+</html>
